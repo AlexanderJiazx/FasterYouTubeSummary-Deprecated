@@ -1,5 +1,16 @@
 # Faster YouTube Summary
 
+## 🚫 Deprecated
+
+**Faster YouTube Summary** is no longer maintained.
+
+Since users can now summarize videos directly (and natively) using Google AI Studio, this project is no longer useful or necessary.
+
+Thank you to everyone who supported or used this tool!
+
+👉 **We recommend switching to [Google AI Studio](https://aistudio.google.com/)** for summarizing YouTube videos.
+
+
 **Faster YouTube Summary** is a powerful tool designed to quickly generate detailed summaries of YouTube videos using the Groq API. This tool can deliver a comprehensive summary of a YouTube video in just 2 seconds (provided the video has native captions).
 
 ## Features
